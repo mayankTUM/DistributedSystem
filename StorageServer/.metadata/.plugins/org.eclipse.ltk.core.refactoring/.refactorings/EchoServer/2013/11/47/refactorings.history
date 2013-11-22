@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;StorageServer/src/app_kvServer&apos;&#x0A;- Original project: &apos;EchoServer&apos;&#x0A;- Destination element: &apos;StorageServer/src/app_kvServer&apos;&#x0A;- Original elements:&#x0A;     server.TextMessage.java&#x0A;     server.ClientConnection.java" description="Copy compilation units" destination="=StorageServer/src&lt;app_kvServer" element1="/src&lt;server{TextMessage.java" element2="/src&lt;server{ClientConnection.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1385027617100" units="2" version="1.0"/>
+</session>

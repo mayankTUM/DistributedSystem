@@ -1,0 +1,36 @@
+package common.messages;
+
+public class KVMessageImpl implements KVMessage {
+
+	private String key;
+	private String value;
+	private StatusType status;
+	
+	public void setKey(String key) {
+		this.key = key;
+	}
+	
+	public void setValue() {
+		this.value = value;
+	}
+	
+	public void setStatus() {
+		this.status = status;
+	}
+	
+	@Override
+	public String getKey() {
+		return this.key;
+	}
+
+	@Override
+	public String getValue() {
+		return this.value;
+	}
+
+	@Override
+	public StatusType getStatus() {
+		return this.status;
+	}
+
+}
